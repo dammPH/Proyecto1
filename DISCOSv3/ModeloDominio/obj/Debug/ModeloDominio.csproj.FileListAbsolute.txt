@@ -1,0 +1,6 @@
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDominio\bin\Debug\ModeloDominio.dll
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDominio\bin\Debug\ModeloDominio.pdb
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDominio\obj\Debug\ModeloDominio.csproj.AssemblyReference.cache
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDominio\obj\Debug\ModeloDominio.csproj.CoreCompileInputs.cache
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDominio\obj\Debug\ModeloDominio.dll
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDominio\obj\Debug\ModeloDominio.pdb

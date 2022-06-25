@@ -1,0 +1,11 @@
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\bin\Debug\BD.dll
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\bin\Debug\ModeloDominio.dll
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\bin\Debug\BD.pdb
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\bin\Debug\ModeloDominio.pdb
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\obj\Debug\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\obj\Debug\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\obj\Debug\ModeloDatos.csproj.CopyComplete
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\brenda\source\repos\DISCOSv3\ModeloDatos\obj\Debug\ModeloDatos.pdb
